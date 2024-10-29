@@ -1,2 +1,2 @@
 # Embedded-System-Programming
-2024 Autumn
+2024 Fall
